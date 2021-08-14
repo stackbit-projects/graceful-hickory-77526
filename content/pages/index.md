@@ -208,7 +208,7 @@ sections:
     background_image_opacity: 8
   - section_id: lorem-ipsum
     title: asd
-    subtitle: lorem-ipsum
+    subtitle: lorem-ipsumasdas
     actions: []
     grid_items: []
     grid_cols: three
